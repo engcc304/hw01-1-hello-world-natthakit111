@@ -13,3 +13,9 @@
     Output:
         ABD DEFs TC, RMUTL, Chiang Mai, Thailand
 */
+#include <stdio.h>
+int main() {
+    printf( "what is you name:\n" ) ;
+    printf( "what is you last name:" ) ;
+    return 0 ;
+}//end main fucnion
